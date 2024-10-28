@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container-sm {
+  margin-top: 50px;
+  width: 500px;
+  height: 600px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 6px;
+  background-color: #333333;
+}
+
+.calc-display {
+  margin: 20px 10px 10px 10px;
+  width: 456px;
+  height: 120px;
+}
+.my_btn {
+  background-color: #e0e0e0;
+}
+
+.orange {
+  background-color: #f39c12;
+}
+
+.Green {
+  background-color: #27ae60;
+}
+
+.Blue {
+  background-color: #3498db;
+}
+
+.red {
+  background-color: rgb(236, 13, 13);
+}
+.clear {
+  background-color: yellow;
+}
